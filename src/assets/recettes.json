@@ -7,7 +7,7 @@
     "description": "Un burger savoureux avec une touche classique. Ingrédients frais et un steak juteux pour une expérience culinaire inoubliable.",
     "imageUrl": "https://source.unsplash.com/1600x900/?burger",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-02",
@@ -17,7 +17,7 @@
     "description": "Des tacos colorés et pleins de saveurs, avec une garniture riche et une sauce épicée maison.",
     "imageUrl": "https://source.unsplash.com/1600x900/?tacos",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-03",
@@ -27,7 +27,7 @@
     "description": "Une pizza simple mais élégante, avec de la mozzarella fraîche, des tomates et du basilic.",
     "imageUrl": "https://source.unsplash.com/1600x900/?pizza",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-04",
@@ -37,7 +37,7 @@
     "description": "Un plat classique italien avec des pâtes, une sauce crémeuse au fromage, des lardons et du poivre noir.",
     "imageUrl": "https://source.unsplash.com/1600x900/?pasta",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-05",
@@ -47,7 +47,7 @@
     "description": "Une salade légère et croquante avec des morceaux de poulet grillé, des croûtons et une vinaigrette César.",
     "imageUrl": "https://source.unsplash.com/1600x900/?salad",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-06",
@@ -57,7 +57,7 @@
     "description": "Un poulet frais avec une sauce riche et une mélange de saveurs.",
     "imageUrl": "https://source.unsplash.com/1600x900/?roasted-chicken",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-07",
@@ -67,7 +67,7 @@
     "description": "Une soupe de tomate onctueuse et réconfortante, parfaite pour les soirées froides.",
     "imageUrl": "https://source.unsplash.com/1600x900/?tomato,soup",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-08",
@@ -77,7 +77,7 @@
     "description": "Des sushis frais avec une sauce riche et un mélange de saveurs.",
     "imageUrl": "https://source.unsplash.com/1600x900/?sushi",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-09",
@@ -87,7 +87,7 @@
     "description": "Des crêpes douces et moelleuses avec une garniture riche en chocolat et des fruits frais.",
     "imageUrl": "https://source.unsplash.com/1600x900/?pancakes,chocolate",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-10",
@@ -97,7 +97,7 @@
     "description": "Un fondant riche et leger, avec une crème au chocolat et une mélange de fruits frais.",
     "imageUrl": "https://source.unsplash.com/1600x900/?icecream,Chocolate",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-11",
@@ -107,7 +107,7 @@
     "description": "Un tiramisu au fromage frais, avec une crème au mascarpone et des mélanges de sucre et de fraïcheur.",
     "imageUrl": "https://source.unsplash.com/1600x900/?tiramisu",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   },
   {
     "id": "recipe-12",
@@ -117,6 +117,6 @@
     "description": "Une tarte au citron avec une crème au citron, une mélange de sucre et de fraïcheur.",
     "imageUrl": "https://source.unsplash.com/1600x900/?lemon-cake",
     "date": "2024-02-22",
-    "author": "john Doe"
+    "author": "👽"
   }
 ]
