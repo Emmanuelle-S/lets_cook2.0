@@ -10,11 +10,13 @@ function App() {
 
   return (
     <>
-    <Header/>
-    <h1 className='my-4 text-6xl text-red-600'>Let's Cook</h1>
-    <Search/>
-    <Recipes/>
-    <Footer/>
+      <Header/>
+    <div className='container mx-auto px-1 py-8'>
+      <h1 className='my-4 text-6xl text-red-600'>Let's Cook</h1>
+      <Search/>
+      <Recipes/>
+      <Footer/>
+    </div>
     </>
   )
 }
